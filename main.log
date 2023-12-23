@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.11)  11 DEC 2023 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.11)  23 DEC 2023 14:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1235,17 +1235,26 @@ l.19
 Chapter 1.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 22.
+(Font)              size <5> substituted on input line 26.
 
 
-LaTeX Font Warning: Font shape `OT1/cmr/b/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 22.
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
 
 [2
 
-]
-\g__tikzsymbols_savebox_F_0 g 0 G_10_Laughey_1_none_none_box=\box144
- [3] [4{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [5] (./main.aux)
+] (./main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1255,18 +1264,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37695 strings out of 476025
- 760548 string characters out of 5790016
- 1878388 words of memory out of 5000000
- 57379 multiletter control sequences out of 15000+600000
- 559669 words of font info for 167 fonts, out of 8000000 for 9000
+ 37360 strings out of 476025
+ 754747 string characters out of 5790016
+ 1862388 words of memory out of 5000000
+ 57128 multiletter control sequences out of 15000+600000
+ 538970 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,102p,494b,1760s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXBMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxbmiaX.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxbsys.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsya.pfb>
-Output written on main.pdf (6 pages, 257470 bytes).
+ 99i,7n,102p,494b,1426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newpx/pxsys.pfb>
+Output written on main.pdf (3 pages, 111645 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 196 compressed objects within 2 object streams
- 48 named destinations out of 1000 (max. 500000)
- 227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
